@@ -1,11 +1,11 @@
 # Generative Adversarial Soft Actor–Critic
-This repository contains the code implementation of the experiments presented in the paper [*Generative Adversarial Soft Actor–Critic*](10.1109/TNNLS.2024.3493113).
+This repository contains the code implementation of the experiments presented in the paper [*Generative Adversarial Soft Actor–Critic*](https://doi.org/10.1109/TNNLS.2024.3493113).
 
 ---
 
 ## Cite this Repository
 
-If you find this repository useful, please consider citing [our paper](10.1109/TNNLS.2024.3493113):
+If you find this repository useful, please consider citing [our paper](https://doi.org/10.1109/TNNLS.2024.3493113):
 
 ```bibtex
 @ARTICLE{10783450,
